@@ -1,0 +1,12 @@
+E:\VS_CodeBase\Source\Incident_Status\bin\Debug\Incident_Status.exe.config
+E:\VS_CodeBase\Source\Incident_Status\bin\Debug\Incident_Status.exe
+E:\VS_CodeBase\Source\Incident_Status\bin\Debug\Incident_Status.pdb
+E:\VS_CodeBase\Source\Incident_Status\bin\Debug\Incident_Status.xml
+E:\VS_CodeBase\Source\Incident_Status\obj\Debug\Incident_Status.vbprojAssemblyReference.cache
+E:\VS_CodeBase\Source\Incident_Status\obj\Debug\Incident_Status.IncidentStatusForm.resources
+E:\VS_CodeBase\Source\Incident_Status\obj\Debug\Incident_Status.Resources.resources
+E:\VS_CodeBase\Source\Incident_Status\obj\Debug\Incident_Status.vbproj.GenerateResource.cache
+E:\VS_CodeBase\Source\Incident_Status\obj\Debug\Incident_Status.vbproj.CoreCompileInputs.cache
+E:\VS_CodeBase\Source\Incident_Status\obj\Debug\Incident_Status.exe
+E:\VS_CodeBase\Source\Incident_Status\obj\Debug\Incident_Status.xml
+E:\VS_CodeBase\Source\Incident_Status\obj\Debug\Incident_Status.pdb
