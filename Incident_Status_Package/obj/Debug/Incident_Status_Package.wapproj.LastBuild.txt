@@ -1,0 +1,11 @@
+E:\VS_CodeBase\Source\Incident_Status_Package\Images\SplashScreen.scale-200.png
+E:\VS_CodeBase\Source\Incident_Status_Package\Images\LockScreenLogo.scale-200.png
+E:\VS_CodeBase\Source\Incident_Status_Package\Images\Square150x150Logo.scale-200.png
+E:\VS_CodeBase\Source\Incident_Status_Package\Images\Square44x44Logo.scale-200.png
+E:\VS_CodeBase\Source\Incident_Status_Package\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+E:\VS_CodeBase\Source\Incident_Status_Package\Images\StoreLogo.png
+E:\VS_CodeBase\Source\Incident_Status_Package\Images\Wide310x150Logo.scale-200.png
+E:\VS_CodeBase\Source\Incident_Status_Package\bin\AnyCPU\Debug\resources.pri
+E:\VS_CodeBase\Source\Incident_Status\bin\Debug\Incident_Status.exe
+E:\VS_CodeBase\Source\Incident_Status\bin\Debug\Incident_Status.exe.config
+E:\VS_CodeBase\Source\Incident_Status\bin\Debug\Incident_Status.pdb
